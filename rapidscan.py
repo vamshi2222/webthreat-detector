@@ -5,7 +5,7 @@
 #                             / ( (//)/(/__)( (//)
 #                                  /
 #
-# Author     : Shankar Narayana Damodaran
+# Author     : vamshi Damodaran
 # Tool       : RapidScan v1.2
 # Usage      : python3 rapidsan.py example.com
 # Description: This scanner automates the process of security scanning by using a
@@ -169,7 +169,7 @@ def logo():
                                      /
                      """+bcolors.ENDC+"""(The Multi-Tool Web Vulnerability Scanner)
 
-                     Check out our new software, """+bcolors.BG_LOW_TXT+"""NetBot"""+bcolors.ENDC+""" for simulating DDoS attacks - https://github.com/skavngr/netbot
+                     Check out our new software, """+bcolors.BG_LOW_TXT+"""NetBot"""+bcolors.ENDC+""" for simulating DDoS attacks - https://github.com/vamshi/netbot
     """
     print(logo_ascii)
     print(bcolors.ENDC)
